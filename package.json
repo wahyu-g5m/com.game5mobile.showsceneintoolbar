@@ -1,7 +1,7 @@
 {
 	"name": "com.game5mobile.showsceneintoolbar",
 	"version": "1.0.0",
-	"displayName": "Show Scene in Toolbar",
+	"displayName": "Five - Show Scene in Toolbar",
 	"description": "Select scene from overlay menu",
 	"unity": "2021.3",
 	"unityRelease": "4f1",
